@@ -22,7 +22,9 @@ tour/
 │   │   ├── ✅️~~02imports:\_sqrt~~
 │   │   ├── ✅️~~03exported-names:\_pi~~
 │   │   ├── ✅️~~04functions~~
-│   │   └── 05unctions_continued
+│   │   ├── ✅️~~05unctions_continued~~
+│   │   ├── ✅️~~06multiple-results~~
+│   │   └── ✅️~~07named-return-values:\_naked~~
 │   ├── 02Flow-control-statements:\_for-if-else-switch-defer
 │   └── 03More-types:\_structs-slices-maps
 ├── 03methods-and-interfaces
