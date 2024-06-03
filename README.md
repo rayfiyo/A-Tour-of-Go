@@ -31,8 +31,8 @@ tour/
 │   │   ├── ✅️08variables
 │   │   ├── ✅️09variables-with-initializers
 │   │   ├── ✅️10short-variable-declarations
-│   │   ├── 🔳11basic-types
-│   │   ├── 🔳12zero-values
+│   │   ├── ✅️11basic-types
+│   │   ├── ✅️12zero-values
 │   │   ├── 🔳13type-conversions
 │   │   ├── 🔳14type-inference
 │   │   ├── 🔳15constants
