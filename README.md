@@ -7,7 +7,7 @@
 - ja: https://go-tour-jp.appspot.com/list
 - en(official): https://go.dev/tour/list
 
-# tree and map
+# todo tree
 
 ```
 tree -d .
