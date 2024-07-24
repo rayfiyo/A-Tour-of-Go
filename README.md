@@ -19,8 +19,8 @@ tour/
 │   └── ✅️welcome
 │       ├── ✅️01hello
 │       └── ✅️02sandbox
-├── 02basics
-│   ├── 01Packages-variables-and-functions
+├── 🔳02basics
+│   ├── ✅️01Packages-variables-and-functions
 │   │   ├── ✅️01packages:_rand
 │   │   ├── ✅️02imports:_sqrt
 │   │   ├── ✅️03exported-names:_pi
@@ -33,10 +33,10 @@ tour/
 │   │   ├── ✅️10short-variable-declarations
 │   │   ├── ✅️11basic-types
 │   │   ├── ✅️12zero-values
-│   │   ├── 🔳13type-conversions
-│   │   ├── 🔳14type-inference
-│   │   ├── 🔳15constants
-│   │   └── 🔳16numeric-constants
+│   │   ├── ✅️13type-conversions
+│   │   ├── ✅️14type-inference
+│   │   ├── ✅️15constants
+│   │   └── ✅️16numeric-constants
 │   ├── 🔳02Flow-control-statements:_for-if-else-switch-defer
 │   └── 🔳03More-types:_structs-slices-maps
 ├── 🔳03methods-and-interfaces
@@ -45,3 +45,4 @@ tour/
 
 🔳
 ✅️
+s/🔳/✅️/
