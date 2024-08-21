@@ -38,9 +38,9 @@ tour/
 │   │   ├── ✅️15_constants
 │   │   └── ✅️16_numeric-constants
 │   ├── 🔳02_Flow-control-statements:_for-if-else-switch-defer
-│   │   ├── 01_for
-│   │   ├── 02_for-continued
-│   │   ├── 03_for-is-Go’s-while
+│   │   ├── ✅️01_for
+│   │   ├── ✅️02_for-continued
+│   │   ├── ✅️03_for-is-Go’s-while
 │   │   ├── 04_forever
 │   │   ├── 05_if
 │   │   ├── 06_if-with-a-short-statement
