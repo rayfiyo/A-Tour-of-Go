@@ -41,7 +41,7 @@ tour/
 │   │   ├── ✅️01_for
 │   │   ├── ✅️02_for-continued
 │   │   ├── ✅️03_for-is-Go’s-while
-│   │   ├── 04_forever
+│   │   ├── ✅️04_forever
 │   │   ├── 05_if
 │   │   ├── 06_if-with-a-short-statement
 │   │   ├── 07_if-and-else
