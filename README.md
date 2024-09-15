@@ -42,7 +42,7 @@ tour/
 │   │   ├── ✅️02_for-continued
 │   │   ├── ✅️03_for-is-Go’s-while
 │   │   ├── ✅️04_forever
-│   │   ├── 05_if
+│   │   ├── ✅️05_if
 │   │   ├── 06_if-with-a-short-statement
 │   │   ├── 07_if-and-else
 │   │   ├── 08_exercise:_loops-and-functions
@@ -56,6 +56,14 @@ tour/
 └── 🔳04_concurrency
 ```
 
+## doing
+
+```
+tour/
+├── 🔳02_basics
+│   ├── 🔳02_Flow-control-statements:_for-if-else-switch-defer
+```
+
+s/🔳/✅️/
 🔳
 ✅️
-s/🔳/✅️/
