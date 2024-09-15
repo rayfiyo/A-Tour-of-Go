@@ -43,7 +43,7 @@ tour/
 │   │   ├── ✅️03_for-is-Go’s-while
 │   │   ├── ✅️04_forever
 │   │   ├── ✅️05_if
-│   │   ├── 06_if-with-a-short-statement
+│   │   ├── ✅️06_if-with-a-short-statement
 │   │   ├── 07_if-and-else
 │   │   ├── 08_exercise:_loops-and-functions
 │   │   ├── 09_switch
