@@ -44,7 +44,7 @@ tour/
 │   │   ├── ✅️04_forever
 │   │   ├── ✅️05_if
 │   │   ├── ✅️06_if-with-a-short-statement
-│   │   ├── 07_if-and-else #1
+│   │   ├── ✅️07_if-and-else #1
 │   │   ├── 08_exercise:_loops-and-functions #2
 │   │   ├── 09_switch #3
 │   │   ├── 10_switch-evaluation-order #4
