@@ -1,20 +1,24 @@
-// ニュートン法を例にループと関数を実装する
+// 06 の改良？として，else 内で ifステートメントで宣言された変数を使う
+
 package main
 
 import (
 	"fmt"
+	"math"
 )
 
-func Sqrt(x float64) float64 {
-	z := 1.0
-
-	for range 10 {
-		z -= (z*z - x) / (2 * z)
+func pow(x, n, lim float64) float64 {
+	if v := math.Pow(x, n); v < lim {
+		return v
+	} else {
+		fmt.Printf("%g >= %g\n", v, lim)
 	}
-
-	return z
+	return lim
 }
 
 func main() {
-	fmt.Println(Sqrt(2))
+	fmt.Println(
+		pow(3, 2, 10),
+		pow(3, 3, 20),
+	)
 }
