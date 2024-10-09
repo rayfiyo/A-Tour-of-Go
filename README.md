@@ -46,7 +46,7 @@ tour/
 │   │   ├── ✅️06_if-with-a-short-statement
 │   │   ├── ✅️07_if-and-else #1
 │   │   ├── ✅️08_exercise:_loops-and-functions #2
-│   │   ├── 09_switch #3
+│   │   ├── ✅️09_switch #3
 │   │   ├── 10_switch-evaluation-order #4
 │   │   ├── 11_switch-with-no-condition #5
 │   │   ├── 12_defer #6
