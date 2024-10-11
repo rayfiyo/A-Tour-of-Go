@@ -47,7 +47,7 @@ tour/
 │   │   ├── ✅️07_if-and-else #1
 │   │   ├── ✅️08_exercise:_loops-and-functions #2
 │   │   ├── ✅️09_switch #3
-│   │   ├── 10_switch-evaluation-order #4
+│   │   ├── ✅️10_switch-evaluation-order #4
 │   │   ├── 11_switch-with-no-condition #5
 │   │   ├── 12_defer #6
 │   │   └── 13_stacking-defers #7
@@ -117,13 +117,15 @@ tour/
     └── 10_Exercise:_Web-Crawler #68
 ```
 
-## doing
+## note
 
 ```
 tour/
 ├── 🔳02_basics
 │   ├── 🔳02_Flow-control-statements:_for-if-else-switch-defer
 ```
+
+https://go-tour-jp.appspot.com/list
 
 s/🔳/✅️/
 🔳
