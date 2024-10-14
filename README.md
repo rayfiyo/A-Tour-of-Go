@@ -48,7 +48,7 @@ tour/
 │   │   ├── ✅️08_exercise:_loops-and-functions #2
 │   │   ├── ✅️09_switch #3
 │   │   ├── ✅️10_switch-evaluation-order #4
-│   │   ├── 11_switch-with-no-condition #5
+│   │   ├── ✅️11_switch-with-no-condition #5
 │   │   ├── 12_defer #6
 │   │   └── 13_stacking-defers #7
 │   └── 🔳03_More-types:_structs-slices-maps
