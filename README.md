@@ -49,7 +49,7 @@ tour/
 │   │   ├── ✅️09_switch #3
 │   │   ├── ✅️10_switch-evaluation-order #4
 │   │   ├── ✅️11_switch-with-no-condition #5
-│   │   ├── 12_defer #6
+│   │   ├── ✅️12_defer #6
 │   │   └── 13_stacking-defers #7
 │   └── 🔳03_More-types:_structs-slices-maps
 │       ├── 01_Pointers #8
