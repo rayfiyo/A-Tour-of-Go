@@ -37,7 +37,7 @@ tour/
 │   │   ├── ✅️14_type-inference
 │   │   ├── ✅️15_constants
 │   │   └── ✅️16_numeric-constants
-│   ├── 🔳02_Flow-control-statements:_for-if-else-switch-defer
+│   ├── ✅️02_Flow-control-statements:_for-if-else-switch-defer
 │   │   ├── ✅️01_for
 │   │   ├── ✅️02_for-continued
 │   │   ├── ✅️03_for-is-Go’s-while
@@ -50,7 +50,7 @@ tour/
 │   │   ├── ✅️10_switch-evaluation-order #4
 │   │   ├── ✅️11_switch-with-no-condition #5
 │   │   ├── ✅️12_defer #6
-│   │   └── 13_stacking-defers #7
+│   │   └── ✅️13_stacking-defers #7
 │   └── 🔳03_More-types:_structs-slices-maps
 │       ├── 01_Pointers #8
 │       ├── 02_Structs #9
