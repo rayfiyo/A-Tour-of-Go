@@ -54,7 +54,7 @@ tour/
 │   └── 🔳03_More-types:_structs-slices-maps
 │       ├── ✅️01_Pointers #8
 │       ├── ✅️02_Structs #9
-│       ├── 03_Struct-Fields #10
+│       ├── ✅️03_Struct-Fields #10
 │       ├── 04_Pointers-to-structs #11
 │       ├── 05_Struct-Literals #12
 │       ├── 06_Arrays #13
