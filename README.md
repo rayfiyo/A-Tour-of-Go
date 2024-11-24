@@ -55,7 +55,7 @@ tour/
 │       ├── ✅️01_Pointers #8
 │       ├── ✅️02_Structs #9
 │       ├── ✅️03_Struct-Fields #10
-│       ├── 04_Pointers-to-structs #11
+│       ├── ✅️04_Pointers-to-structs #11
 │       ├── 05_Struct-Literals #12
 │       ├── 06_Arrays #13
 │       ├── 07_Slices #14
