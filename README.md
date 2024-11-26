@@ -58,7 +58,7 @@ tour/
 │       ├── ✅️04_Pointers-to-structs #11
 │       ├── ✅️05_Struct-Literals #12
 │       ├── ✅️06_Arrays #13
-│       ├── 07_Slices #14
+│       ├── ✅️07_Slices #14
 │       ├── 08_Slices-are-like-references-to-arrays #15
 │       ├── 09_Slice-literals #16
 │       ├── 10_Slice-defaults #17
