@@ -1,3 +1,6 @@
+// 間接参照: indirecting
+// 参照外し: dereferencing (参照元から参照先の値を得ること)
+
 package main
 
 import "fmt"
