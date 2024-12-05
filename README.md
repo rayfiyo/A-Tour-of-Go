@@ -61,7 +61,7 @@ tour/
 │       ├── ✅️07_Slices #14
 │       ├── ✅️08_Slices-are-like-references-to-arrays #15
 │       ├── ✅️09_Slice-literals #16
-│       ├── 10_Slice-defaults #17
+│       ├── ✅️10_Slice-defaults #17
 │       ├── 11_Slice-length-and-capacity #18
 │       ├── 12_Nil-slices #19
 │       ├── 13_Creating-a-slice-with-make #20
