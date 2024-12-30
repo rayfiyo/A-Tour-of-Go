@@ -65,7 +65,7 @@ tour/
 │       ├── ✅️ 11_Slice-length-and-capacity #18
 │       ├── ✅️ 12_Nil-slices #19
 │       ├── ✅️ 13_Creating-a-slice-with-make #20
-│       ├──  14_Slices-of-slices #21
+│       ├── ✅️ 14_Slices-of-slices #21
 │       ├──  15_Appending-to-a-slice #22
 │       ├──  16_Range #23
 │       ├──  17_Range-continued #24
