@@ -67,7 +67,7 @@ tour/
 │       ├── ✅️ 13_Creating-a-slice-with-make #20
 │       ├── ✅️ 14_Slices-of-slices #21
 │       ├── ✅️ 15_Appending-to-a-slice #22
-│       ├──  16_Range #23
+│       ├── ✅️ 16_Range #23
 │       ├──  17_Range-continued #24
 │       ├──  18_Exercise:_Slices #25
 │       ├──  19_Maps #26
