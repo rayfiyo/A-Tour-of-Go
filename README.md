@@ -69,7 +69,7 @@ tour/
 │       ├── ✅️ 15_Appending-to-a-slice #22
 │       ├── ✅️ 16_Range #23
 │       ├── ✅️ 17_Range-continued #24
-│       ├──  18_Exercise:_Slices #25
+│       ├── ✅️ 18_Exercise:_Slices #25
 │       ├──  19_Maps #26
 │       ├──  20_Map-literals #27
 │       ├──  21_Map-literals-continued #28
