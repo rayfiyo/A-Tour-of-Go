@@ -72,7 +72,7 @@ tour/
 │       ├── ✅️ 18_Exercise:_Slices #25
 │       ├── ✅️ 19_Maps #26
 │       ├── ✅️ 20_Map-literals #27
-│       ├──  21_Map-literals-continued #28
+│       ├── ✅️ 21_Map-literals-continued #28
 │       ├──  22_Mutating-Maps #29
 │       ├──  23_Exercise:_Maps #30
 │       ├──  24_Function-values #31
