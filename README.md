@@ -75,7 +75,7 @@ tour/
 │       ├── ✅️ 21_Map-literals-continued #28
 │       ├── ✅️ 22_Mutating-Maps #29
 │       ├── ✅️ 23_Exercise:_Maps #30
-│       ├──  24_Function-values #31
+│       ├── ✅️ 24_Function-values #31
 │       ├──  25_Function-closures #32
 │       └──  26_Exercise:_Fibonacci-closure #33
 ├── 🔳 03_methods-and-interfaces
