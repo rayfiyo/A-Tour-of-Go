@@ -19,7 +19,7 @@ tour/
 │   └── ✅️ welcome
 │       ├── ✅️ 01_hello
 │       └── ✅️ 02_sandbox
-├── 🔳 02_basics
+├── ✅️ 02_basics
 │   ├── ✅️ 01_Packages-variables-and-functions
 │   │   ├── ✅️ 01_packages:_rand
 │   │   ├── ✅️ 02_imports:_sqrt
@@ -51,7 +51,7 @@ tour/
 │   │   ├── ✅️ 11_switch-with-no-condition #5
 │   │   ├── ✅️ 12_defer #6
 │   │   └── ✅️ 13_stacking-defers #7
-│   └── 🔳 03_More-types:_structs-slices-maps
+│   └── ✅️ 03_More-types:_structs-slices-maps
 │       ├── ✅️ 01_Pointers #8
 │       ├── ✅️ 02_Structs #9
 │       ├── ✅️ 03_Struct-Fields #10
@@ -77,7 +77,7 @@ tour/
 │       ├── ✅️ 23_Exercise:_Maps #30
 │       ├── ✅️ 24_Function-values #31
 │       ├── ✅️ 25_Function-closures #32
-│       └──  26_Exercise:_Fibonacci-closure #33
+│       └── ✅️ 26_Exercise:_Fibonacci-closure #33
 ├── 🔳 03_methods-and-interfaces
 │   ├──  01_Methods #34
 │   ├──  02_Methods-are-functions #35
