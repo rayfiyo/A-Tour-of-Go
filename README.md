@@ -80,7 +80,7 @@ tour/
 │       └── ✅️ 26_Exercise:_Fibonacci-closure #33
 ├── 🔳 03_methods-and-interfaces
 │   ├── ✅️ 01_Methods #34
-│   ├──  02_Methods-are-functions #35
+│   ├── ✅️ 02_Methods-are-functions #35
 │   ├──  03_Methods-continued #36
 │   ├──  04_Pointer-receivers #37
 │   ├──  05_Pointers-and-functions #38
