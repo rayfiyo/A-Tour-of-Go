@@ -82,7 +82,7 @@ tour/
 │   ├── ✅️ 01_Methods #34
 │   ├── ✅️ 02_Methods-are-functions #35
 │   ├── ✅️ 03_Methods-continued #36
-│   ├──  04_Pointer-receivers #37
+│   ├── ✅️ 04_Pointer-receivers #37
 │   ├──  05_Pointers-and-functions #38
 │   ├──  06_Methods-and-pointer-indirection #39
 │   ├──  07_Methods-and-pointer-indirection（２） #40
