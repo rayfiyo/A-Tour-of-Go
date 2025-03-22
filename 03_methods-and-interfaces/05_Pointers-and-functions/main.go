@@ -1,3 +1,9 @@
+// ポインタと値の違い
+
+// Vertex 型: float64 の２つのフィールド X, Y を持つ
+// Abs 関数: Vertex 型の値 v を引数にとり、２値のニ乗和の平方根を返す
+// Scale 関数: Vertex 型の値のポインタ v を float64 の値 f 倍する
+
 package main
 
 import (

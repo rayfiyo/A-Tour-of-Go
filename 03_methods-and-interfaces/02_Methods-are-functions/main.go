@@ -1,3 +1,8 @@
+// 前回のメソッドの実装を関数で実装した
+
+// Vertex 型: float64 の２つのフィールド X, Y を持つ
+// Abs 関数: Vertex 型の値 v を引数にとり、２値のニ乗和の平方根を返す
+
 package main
 
 import (
