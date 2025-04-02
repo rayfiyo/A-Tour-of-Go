@@ -88,7 +88,7 @@ tour/
 │   ├── ✅️ 07_Methods-and-pointer-indirection（２） #40
 │   ├── ✅️ 08_Choosing-a-value-or-pointer-receiver #41
 │   ├── ✅️ 09_Interfaces #42
-│   ├──  10_Interfaces-are-implemented-implicitly #43
+│   ├── ✅️ 10_Interfaces-are-implemented-implicitly #43
 │   ├──  11_Interface-values #44
 │   ├──  12_Interface-values-with-nil-underlying-values #45
 │   ├──  13_Nil-interface-values #46
