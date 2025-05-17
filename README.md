@@ -90,7 +90,7 @@ tour/
 │   ├── ✅️ 09_Interfaces #42
 │   ├── ✅️ 10_Interfaces-are-implemented-implicitly #43
 │   ├── ✅️ 11_Interface-values #44
-│   ├──  12_Interface-values-with-nil-underlying-values #45
+│   ├── ✅️ 12_Interface-values-with-nil-underlying-values #45
 │   ├──  13_Nil-interface-values #46
 │   ├──  14_The-empty-interface #47
 │   ├──  15_Type-assertions #48
