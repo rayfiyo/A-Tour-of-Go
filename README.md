@@ -92,7 +92,7 @@ tour/
 │   ├── ✅️ 11_Interface-values #44
 │   ├── ✅️ 12_Interface-values-with-nil-underlying-values #45
 │   ├── ✅️ 13_Nil-interface-values #46
-│   ├──  14_The-empty-interface #47
+│   ├── ✅️ 14_The-empty-interface #47
 │   ├──  15_Type-assertions #48
 │   ├──  16_Type-switches #49
 │   ├──  17_Stringers #50
