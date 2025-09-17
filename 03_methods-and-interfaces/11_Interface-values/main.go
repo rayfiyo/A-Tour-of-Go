@@ -19,6 +19,7 @@ import (
 )
 
 type I interface {
+	// どんな型でもいいけど、M() は実装しておいてね～
 	M()
 }
 
@@ -26,12 +27,14 @@ type T struct {
 	S string
 }
 
+// T 型で M() を実装しているので、T 型は I インターフェースを満たす
 func (t *T) M() {
 	fmt.Println(t.S)
 }
 
 type F float64
 
+// F 型で M() を実装しているので、F 型は I インターフェースを満たす
 func (f F) M() {
 	fmt.Println(f)
 }
@@ -40,11 +43,11 @@ func main() {
 	var i I
 
 	i = &T{"Hello"}
-	describe(i)
+	describe(i) // インターフェースを満たしているのでエラーにならない
 	i.M()
 
 	i = F(math.Pi)
-	describe(i)
+	describe(i) // インターフェースを満たしているので（略）
 	i.M()
 }
 
